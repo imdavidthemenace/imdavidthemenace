@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David J Kamutini
 - 👀 I’m interested in problem solving, programming and software designs
-- 🌱 I’m currently studying IT Software Eng
+- 🌱 I’m a IT Software Eng Graduate
 - 📫 How to reach me: kamutini.jr@gmail.com
 - ⚡ Fun fact: I love basketball
