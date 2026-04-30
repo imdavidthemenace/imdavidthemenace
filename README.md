@@ -1,4 +1,6 @@
-![Uploading Infographic David.png…]()
+
+<img width="2752" height="1536" alt="Infographic David" src="https://github.com/user-attachments/assets/36e4703d-b5d7-452b-bd60-0589b7d80889" />
+
 👋 Hi, I'm David
 
 💻 Junior Software Engineer focused on Mobile & Backend Development
